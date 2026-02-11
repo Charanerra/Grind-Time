@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/grind-time-app/static/css/main.e6c13ad2.css",
-    "main.js": "/grind-time-app/static/js/main.7ecbc285.js",
-    "static/js/453.1fbf3348.chunk.js": "/grind-time-app/static/js/453.1fbf3348.chunk.js",
-    "index.html": "/grind-time-app/index.html",
-    "main.e6c13ad2.css.map": "/grind-time-app/static/css/main.e6c13ad2.css.map",
-    "main.7ecbc285.js.map": "/grind-time-app/static/js/main.7ecbc285.js.map",
-    "453.1fbf3348.chunk.js.map": "/grind-time-app/static/js/453.1fbf3348.chunk.js.map"
+    "main.css": "/Grind-Time/static/css/main.e6c13ad2.css",
+    "main.js": "/Grind-Time/static/js/main.771e4257.js",
+    "static/js/453.b3bd1d34.chunk.js": "/Grind-Time/static/js/453.b3bd1d34.chunk.js",
+    "index.html": "/Grind-Time/index.html",
+    "main.e6c13ad2.css.map": "/Grind-Time/static/css/main.e6c13ad2.css.map",
+    "main.771e4257.js.map": "/Grind-Time/static/js/main.771e4257.js.map",
+    "453.b3bd1d34.chunk.js.map": "/Grind-Time/static/js/453.b3bd1d34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7ecbc285.js"
+    "static/js/main.771e4257.js"
   ]
 }
